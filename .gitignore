@@ -1,0 +1,13 @@
+# Neovim plugin lock file (auto-generated)
+nvim/lazy-lock.json
+
+# OS
+.DS_Store
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# Backup directory created by install.sh
+.dotfiles-backup/
