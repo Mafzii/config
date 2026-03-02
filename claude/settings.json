@@ -1,9 +1,7 @@
 {
   "enabledPlugins": {
     "frontend-design@claude-plugins-official": true,
-    "context7@claude-plugins-official": true,
-    "graphic-realism@local": true,
-    "trendy-design-2026@local": true
+    "context7@claude-plugins-official": true
   },
   "alwaysThinkingEnabled": true,
   "model": "opus"
