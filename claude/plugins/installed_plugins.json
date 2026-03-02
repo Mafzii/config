@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/mustafaafzal/.claude/plugins/cache/claude-plugins-official/frontend-design/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-01-29T14:25:00.242Z",
+        "lastUpdated": "2026-02-25T12:12:23.193Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/mustafaafzal/.claude/plugins/cache/claude-plugins-official/context7/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-01-29T14:25:21.782Z",
+        "lastUpdated": "2026-02-25T12:12:23.192Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ]
+  }
+}
